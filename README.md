@@ -1,7 +1,30 @@
-### 👋 Hi, I’m @MargotHuet
-- 👀 I am an AI and c<programming enthusiast
-- 🌱 I’m currently a student at Ada Tech School where I am learning software development and I am searching for an apprenticeship in Web development/AI.
-- 🎊 Enjoy !
+# 👋 Hi, I’m @MargotHuet
+[Lien vers mon portfolio]()
+<br>
+<br>
+Actuellement étudiante à @Adatechschool Paris, je suis à la recherche d'une alternance pour une durée de 1 an, à partir du 12 Février 2024. Rythme du 4 jours en entreprise du lundi au jeudi et 1 jour en formation (les vendredis). 
+
+<br>
+Je prépare le titre [RNCP Concepteur développeur d'applications](https://www.francecompetences.fr/recherche/rncp/31678/), de niveau 6 (bac+3).
+<br>
+
+## Hard skills
+
+- Web: HTML, CSS, Javascript, PHP, Node.js, React js, Python, SQL
+
+- Mobile: React Native
+
+- Databases : MySQL
+
+- Data science : Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn. 
+
+## Soft skills
+
+- Rigueur
+- Curiosité
+- Empathie
+- Communication 
+- Travail d'équipe et en autonomie
 
 <!---
 MargotHuet/MargotHuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
