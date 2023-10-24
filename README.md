@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MargotHuet
+### 👋 Hi, I’m @MargotHuet
 - 👀 I am an AI and c<programming enthusiast
 - 🌱 I’m currently a student at Ada Tech School where I am learning software development and I am searching for an apprenticeship in Web development/AI.
 - 🎊 Enjoy !
