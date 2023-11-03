@@ -14,7 +14,7 @@ Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (b
 
 - Mobile: React Native
 
-- Databases : MySQL
+- Databases : MySQL, Supabase
 
 - Data science : Scikit-learn, TensorFlow, Keras, Pandas, Numpy, Matplotlib, Seaborn. 
 
