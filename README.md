@@ -2,7 +2,7 @@
 [Lien vers mon portfolio]()
 <br>
 <br>
-Actuellement étudiante à @Adatechschool Paris, je suis à la recherche d'une alternance pour une durée de 1 an, à partir du 12 Février 2024. Rythme du 4 jours en entreprise du lundi au jeudi et 1 jour en formation (les vendredis). 
+Actuellement étudiante à @Adatechschool Paris, je suis à la recherche d'une alternance pour une durée de 1 an, à partir de Mars 2024. Rythme du 4 jours en entreprise du lundi au jeudi et 1 jour en formation. 
 
 <br>
 Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (bac+3).
