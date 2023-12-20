@@ -10,7 +10,7 @@ Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (b
 
 ## Hard skills
 
-- Web: HTML, CSS, TailwindCSS, Bootstrap, Javascript, NodeJS, ExpressJS, ReactJS, PHP, Laravel, Python, SQL, FastAPI
+- Web: HTML, CSS, TailwindCSS, Bootstrap, Python, Javascript, NodeJS, ExpressJS, ReactJS, PHP, SQL, FastAPI
 
 - Mobile: React Native
 
