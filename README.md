@@ -1,8 +1,10 @@
 # 👋 Hi, I’m @MargotHuet
-[Lien vers mon portfolio](https://margothuet.github.io/Portfolio/)
+
+
+![Visitor Count](https : //profile-counter.glitch.me/{MargotHuet}/count.svg)
 <br>
 <br>
-Actuellement étudiante à @Adatechschool Paris, je suis à la recherche d'une alternance d'une durée de 1 an, à partir de Mars 2024. Rythme du 4 jours en entreprise du lundi au jeudi et 1 jour en formation. 
+Actuellement étudiante à @Adatechschool Paris, j'étudie la programmation web full-stack. 
 
 <br>
 Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (bac+3).
@@ -12,7 +14,7 @@ Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (b
 
 - Web: HTML, CSS, TailwindCSS, Bootstrap, Python, Javascript, NodeJS, ExpressJS, ReactJS, PHP, SQL, FastAPI
 
-- Mobile: React Native
+- Mobile: React Native, Kotlin, GO
 
 - Databases: MySQL, Supabase, PostgreSQL
 
