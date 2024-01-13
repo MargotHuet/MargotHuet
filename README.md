@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @MargotHuet
 
 
-![Visitor Count](https : //profile-counter.glitch.me/MargotHuet/count.svg)
+[Visitor Count](https : //profile-counter.glitch.me/MargotHuet/count.svg)
 <br>
 <br>
 Actuellement étudiante à @Adatechschool Paris, j'étudie la programmation web full-stack. 
