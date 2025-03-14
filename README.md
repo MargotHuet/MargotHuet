@@ -1,10 +1,10 @@
 # <div align="center">👋 Hi, I'm Margot</div>  
   
 
-- 👩‍🎓 Actuellement étudiante à @Adatechschool Paris, j'étudie la programmation web full-stack.   
+- I'm a full-stack developer working for a data and AI specialist company.   
   
 
-- Je prépare le titre RNCP Concepteur développeur d'applications, de niveau 6 (bac+3).
+- I am owning a bachelor degree in web and mobile development.
   
   
 
