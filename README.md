@@ -6,7 +6,7 @@
 
 - I am owning a bachelor degree in web and mobile development.
   
-  
+Paris, France 🇫🇷
 
 <br/>  
 
