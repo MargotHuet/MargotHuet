@@ -1,5 +1,5 @@
-# <h1 align="center">👋 Hi, I'm Margot</h1>  
-<p align="center">📍 Paris, France  ·  💼 Fullstack Developer</p>
+# <div> <h1 align="center">👋 Hi, I'm Margot</h1>  
+<p align="center">📍 Paris, France  ·  💼 Fullstack Developer</p> </div>
 
 
 
