@@ -11,7 +11,7 @@
   </div>  
   <br/>
   <div>
-    <p>My day-to-day responsabilities:</p>
+    <p>🧑‍💻 My day-to-day responsabilities:</p>
       <ul>
         <li>Design and development of REST APIs</li>
         <li>Frontend component creation and performances improvements</li>
@@ -20,6 +20,17 @@
         <li>Participation in architecture decisions and code reviews</li>
         <li>Collaboration with cross-functionnal teams</li>
       </ul>
+  </div>
+</section>
+
+--
+
+<section>
+  <div>
+    ## 📜 On going certification prep
+
+> 🎯 **Google Cloud Professional Cloud Developer** — on going
+
   </div>
 </section>
   
