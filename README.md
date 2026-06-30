@@ -1,4 +1,7 @@
 # <div align="center">👋 Hi, I'm Margot</div>  
+📍 Paris, France  ·  💼 Fullstack Developer
+
+
   
 
 - I'm a full-stack developer working for a data and AI specialist company.   
