@@ -16,7 +16,7 @@
         <li>Deployment of applications on Google Cloud Platform (Cloud Run, Pub/Sub, Firestore)</li>
         <li>CI/CD workflows setup</li>
         <li>Participation in architecture decisions and code reviews</li>
-        <li>Collaboration with cross-functionnal teams</li>
+        <li>Collaboration with remote, international, cross-functionnal teams</li>
       </ul>
   </div>
 </section>
