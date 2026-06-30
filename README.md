@@ -27,7 +27,7 @@
 
 <section>
   <div>
-  <p style="underline> 📜 On going certification prep</p> 
+  <p style="underline"> 📜 On going certification prep</p> 
 
 > 🎯 **Google Cloud Professional Cloud Developer** — on going
 
