@@ -20,14 +20,14 @@
       </ul>
   </div>
 </section>
-</br>
+<hr>
 <section>
   <div>
     <p><strong>On going certification prep</strong></p> 
        <p>Google Cloud Professional Cloud Developer — <em>on going</em></p>
   </div>
 </section>
-</br>
+<hr>
 <section>
   <p><strong>Technical stack</strong></p>
   
@@ -57,7 +57,7 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-orange?style=flat)
 
 </section> 
-</br>
+<hr>
 <section>
   <p><strong>My publications</strong></p>
 
@@ -68,13 +68,15 @@
 - [Starting from Scratch: Crafting a Beginner’s Deployment Workflow with Docker and GCP](https://medium.com/norma-dev/starting-from-scratch-crafting-a-beginners-deployment-workflow-with-docker-and-gcp-70025b085e55)
 
 </section>
-</br>
-## Connect with me  
-<div align="center">
+<hr>
+<section>
+  <p><strong>Connect with me  </strong></p>
+<div>
 <a href="https://www.linkedin.com/in/margot-huet/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+</section>
   
 
 <br/>  
