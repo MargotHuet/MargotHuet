@@ -1,5 +1,5 @@
 # <div align="center">👋 Hi, I'm Margot</div>  
-📍 Paris, France  ·  💼 Fullstack Developer
+## 📍 Paris, France  ·  💼 Fullstack Developer
 
 
   
