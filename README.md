@@ -5,9 +5,11 @@
 
 
 
-  
-
-- I'm a full-stack developer working for a data and AI specialist company.   
+<section>
+  <div>
+    <p>I'm a full-stack developer working for a data and AI specialist company. I have a strong interest in <strong>backend</strong> development</p>
+  </div>  
+</section>
   
 
 - I am owning a bachelor degree in web and mobile development.
