@@ -3,18 +3,29 @@
 <p align="center">📍 Paris, France  ·  💼 Fullstack Developer</p>
 </div>
 
-
+<br/>
 
 <section>
   <div>
     <p>I'm a full-stack developer working for a data and AI specialist company. I have a strong interest in <strong>backend</strong> development</p>
   </div>  
+  <br/>
+  <div>
+    <p>My day-to-day responsabilities:</p>
+      <ul>
+        <li>Design and development of REST APIs</li>
+        <li>Frontend component creation and performances improvements</li>
+        <li>Deployment of applications on Google Cloud Platform (Cloud Run, Pub/Sub, Firestore)</li>
+        <li>CI/CD workflows setup</li>
+        <li>Participation in architecture decisions and code reviews</li>
+        <li>Collaboration with cross-functionnal teams</li>
+      </ul>
+  </div>
 </section>
   
 
 - I am owning a bachelor degree in web and mobile development.
   
-Paris, France 🇫🇷
 
 <br/>  
 
